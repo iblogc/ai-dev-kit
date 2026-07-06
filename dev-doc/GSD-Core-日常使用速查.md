@@ -1,4 +1,4 @@
-# GSD Core 日常使用速查
+# [GSD Core](https://github.com/open-gsd/gsd-core) 日常使用速查
 
 > 只保留日常使用相关内容，不含安装、卸载、社区、徽章等信息。目标是快速判断：现在处于哪个阶段，应该用哪个 GSD 指令。
 

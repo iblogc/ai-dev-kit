@@ -1,4 +1,4 @@
-# Superpowers 日常使用速查
+# [Superpowers](https://github.com/obra/superpowers) 日常使用速查
 
 > 只保留日常使用相关内容，不含安装步骤。目标是快速判断：现在处于哪个阶段，应该触发/使用哪个 Superpowers 技能。
 
